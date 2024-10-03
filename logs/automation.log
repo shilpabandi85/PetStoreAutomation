@@ -1,0 +1,97 @@
+17:02:44.563 [main] INFO  api.test.UserTests - ************ Creating User ********************
+17:02:46.889 [main] INFO  api.test.UserTests - ************ User is Created ********************
+17:02:46.905 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+17:02:47.133 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+17:02:47.137 [main] INFO  api.test.UserTests - ************ Updating User ********************
+17:02:47.377 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+17:02:47.382 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+17:02:47.575 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+08:58:37.238 [main] INFO  api.test.UserTests - ************ Creating User ********************
+08:58:39.899 [main] INFO  api.test.UserTests - ************ User is Created ********************
+08:58:39.907 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+08:59:00.314 [main] INFO  api.test.UserTests - ************ Updating User ********************
+08:59:00.729 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+08:59:00.732 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+08:59:01.199 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+09:05:50.664 [main] INFO  api.test.UserTests - ************ Creating User ********************
+09:05:53.250 [main] INFO  api.test.UserTests - ************ User is Created ********************
+09:05:53.257 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+09:05:53.679 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+09:05:53.682 [main] INFO  api.test.UserTests - ************ Updating User ********************
+09:05:54.062 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+09:05:54.065 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+09:05:54.581 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+09:19:14.918 [main] INFO  api.test.UserTests - ************ Creating User ********************
+09:19:17.317 [main] INFO  api.test.UserTests - ************ User is Created ********************
+09:19:17.325 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+09:19:17.725 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+09:19:17.729 [main] INFO  api.test.UserTests - ************ Updating User ********************
+09:19:18.086 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+09:19:18.090 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+09:19:18.474 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+09:32:06.411 [main] INFO  api.test.UserTests - ************ Creating User ********************
+09:32:08.874 [main] INFO  api.test.UserTests - ************ User is Created ********************
+09:32:08.880 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+09:32:09.326 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+09:32:09.329 [main] INFO  api.test.UserTests - ************ Updating User ********************
+09:32:09.717 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+09:32:09.720 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+09:32:10.113 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+09:59:53.221 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:01:05.998 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:01:38.442 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:01:40.840 [main] INFO  api.test.CreateUserValidations - ************ User is Created ********************
+10:24:04.372 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:24:07.029 [main] INFO  api.test.CreateUserValidations - ************ User is Created ********************
+10:28:46.126 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:29:56.844 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:49:50.674 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:57:47.652 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+10:58:20.090 [main] INFO  api.test.CreateUserValidations - ************ Creating User ********************
+11:52:09.634 [main] INFO  api.test.CreateUserValidations - ************ User Validation********************
+11:52:12.223 [main] INFO  api.test.CreateUserValidations - Status:
+11:53:54.006 [main] INFO  api.test.CreateUserValidations - ************ User Validation********************
+11:53:56.252 [main] INFO  api.test.CreateUserValidations - Status:500
+11:57:42.525 [main] INFO  api.test.CreateUserValidations - ************ User Validation********************
+11:57:44.667 [main] INFO  api.test.CreateUserValidations - Status:500
+11:57:44.667 [main] INFO  api.test.CreateUserValidations - Content-Type:application/json
+11:57:44.667 [main] INFO  api.test.CreateUserValidations - Server:Jetty(9.2.9.v20150224)
+11:57:44.668 [main] INFO  api.test.CreateUserValidations - Message:{"code":500,"type":"unknown","message":"something bad happened"}
+12:55:51.858 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+12:57:07.446 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+13:02:20.442 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+13:12:55.004 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+13:19:01.997 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+13:19:03.712 [main] INFO  api.test.CreateUserValidationStatus - Status:500
+13:19:03.713 [main] INFO  api.test.CreateUserValidationStatus - Content-Type:application/json
+13:19:03.713 [main] INFO  api.test.CreateUserValidationStatus - Server:Jetty(9.2.9.v20150224)
+13:19:03.713 [main] INFO  api.test.CreateUserValidationStatus - Message:{"code":500,"type":"unknown","message":"something bad happened"}
+14:38:36.948 [main] INFO  api.test.CreateUserValidationStatus - ************ User Validation********************
+14:38:38.792 [main] INFO  api.test.CreateUserValidationStatus - Status:500
+14:38:38.792 [main] INFO  api.test.CreateUserValidationStatus - Content-Type:application/json
+14:38:38.793 [main] INFO  api.test.CreateUserValidationStatus - Server:Jetty(9.2.9.v20150224)
+14:38:38.793 [main] INFO  api.test.CreateUserValidationStatus - Message:{"code":500,"type":"unknown","message":"something bad happened"}
+21:18:42.042 [main] INFO  api.test.UserTests - ************ Creating User ********************
+21:18:45.558 [main] INFO  api.test.UserTests - ************ User is Created ********************
+21:18:45.574 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+21:18:45.878 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+21:18:45.884 [main] INFO  api.test.UserTests - ************ Updating User ********************
+21:18:46.123 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+21:18:46.129 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+21:18:46.370 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+21:18:49.145 [main] INFO  api.test.UserTests - ************ Creating User ********************
+21:18:52.808 [main] INFO  api.test.UserTests - ************ User is Created ********************
+21:18:52.819 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+21:18:53.123 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+21:18:53.129 [main] INFO  api.test.UserTests - ************ Updating User ********************
+21:18:53.377 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+21:18:53.382 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+21:18:53.615 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
+21:18:54.916 [main] INFO  api.test.UserTests - ************ Creating User ********************
+21:18:58.050 [main] INFO  api.test.UserTests - ************ User is Created ********************
+21:18:58.062 [main] INFO  api.test.UserTests - ************ Retrieving User ********************
+21:18:58.350 [main] INFO  api.test.UserTests - ************ User is Retrieved ********************
+21:18:58.356 [main] INFO  api.test.UserTests - ************ Updating User ********************
+21:18:58.583 [main] INFO  api.test.UserTests - ************ User is Updated ********************
+21:18:58.588 [main] INFO  api.test.UserTests - ************ Deleting User ********************
+21:18:58.828 [main] INFO  api.test.UserTests - ************ User is Deleted ********************
